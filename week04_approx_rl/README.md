@@ -1,6 +1,7 @@
 ## Materials
 * [__slides__](https://docs.google.com/presentation/d/1HEfIyKT0rIuUQCGAsR1PIVGirccDXu5LQvxhVUjuIqM)
 * Our [lecture](https://yadi.sk/i/Gd9yWV1dpuB7BQ), [seminar](https://yadi.sk/i/mvtKAIRN2yKU2g) (russian)
+* [__seminar slides__](https://yadi.sk/i/B89gXClSpmYZKw)
 
 
 * David Silver lecture - [video](https://www.youtube.com/watch?v=UoPei5o4fps)
@@ -46,5 +47,3 @@ Begin with `seminar_<framework>.ipynb` and then proceed with `homework_<framewor
 
 
 __Note: you're not required to submit assignments in all three frameworks. Pick one and go with it. Maybe switch it occasionally if you want more challenge. __
-
-
